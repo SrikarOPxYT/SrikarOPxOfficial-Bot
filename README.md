@@ -1,5 +1,5 @@
 ## MY FISRT MODERATION BOT MADE USING DISCORD.JS 
-## Made by tag:- cw Khan#6496
+## Made by tag:- SrikarOP
 Id- 682981714523586606
 ## Categories 📑
 
